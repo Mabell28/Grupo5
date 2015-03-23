@@ -1,0 +1,57 @@
+.container-1{
+	padding: 0;
+}
+
+.circuloa{
+	margin: 2% auto;
+	width: 13%;
+
+}
+.circuloa img{
+	width: 100%;
+	
+	border-radius: 50%;
+}
+
+.navbar-nav{
+	text-align: center;
+	float: none;
+	li {
+     float: none;
+     display: inline-block;
+	}
+}
+
+.circulob img{
+	margin: 2%;
+	border-radius: 50%;
+	height: 50px;
+	width: 50px;
+	
+}
+
+.imagen-1 {
+	width: 18em;
+	height: 20em;
+	background-image: url(../img/naty2.jpg);
+	background-size: 100%;
+	background-repeat: no-repeat;
+	margin: 0 auto;
+}
+
+.container-grid-system {
+	padding: 4% 3%;
+}
+
+.container-grid-6 {
+	padding: 5%;
+}
+
+.imagen-2 {
+	width: 15em;
+	height: 20em;
+	background-image: url(../img/ella.jpg);
+	background-size: 100%;
+	background-repeat: no-repeat;
+	margin: 0;
+}
